@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/joe/proj/drone_ws/src/control/build/devel/setup.sh
